@@ -37,20 +37,20 @@ export default function Home() {
 
               <li>
                 <RefreshSolid size={60}/>
-                <p className="title">Instant connection</p>
-                <p className="subtitle">Activez vos forfaits en un clic, sans carte SIM physique.</p>
+                <p className="title">Total flexibility</p>
+                <p className="subtitle">Choose the plan that meets your data and duration needs.</p>
               </li>
 
               <li>
                 <ChartGraphSolid size={60}/>
-                <p className="title">Instant connection</p>
-                <p className="subtitle">Activez vos forfaits en un clic, sans carte SIM physique.</p>
+                <p className="title">Simplified tracking</p>
+                <p className="subtitle">Check your consumption and your packages in real time.</p>
               </li>
 
               <li>
                 <Earth size={60}/>
-                <p className="title">Instant connection</p>
-                <p className="subtitle">Activez vos forfaits en un clic, sans carte SIM physique.</p>
+                <p className="title">Global mobility</p>
+                <p className="subtitle">Stay connected in over 160 countries, ideal for international travel or remote working.</p>
               </li>
             </ul>
           </div>
